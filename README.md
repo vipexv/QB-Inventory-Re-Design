@@ -1,11 +1,5 @@
 # QB-Inventory Re-Design
 
-## Screenshots
-![General](https://i.imgur.com/OuxPF0y.png)
-![Shop](https://i.imgur.com/VVeZIJH.png)
-![Glovebox](https://i.imgur.com/EOodjUj.png)
-![Trunk](https://i.imgur.com/XoWHwEa.png)
-
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
@@ -13,6 +7,12 @@
 - [qb-radio](https://github.com/qbcore-framework/qb-radio) - Radio system for communication
 - [qb-drugs](https://github.com/qbcore-framework/qb-drugs) -  Drugs and Weed Planting System
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
+
+## Screenshots
+![General](https://i.imgur.com/OuxPF0y.png)
+![Shop](https://i.imgur.com/VVeZIJH.png)
+![Glovebox](https://i.imgur.com/EOodjUj.png)
+![Trunk](https://i.imgur.com/XoWHwEa.png)
 
 ## Features
 - Item crafting
