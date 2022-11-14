@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
+@keyframes vipex {
+	from {transform: translateY(-500px);}
+	to {transform: translateY(0);}
+  }
+
+
 p {
 	margin: 0 !important;
 }
@@ -49,6 +55,7 @@ body {
 	width: 100%;
 	height: 100%;
     background: rgba(0, 0, 0, 0.603);
+	animation: vipex 1s ease forwards;
 }
 
 .player-inventory {
