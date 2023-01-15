@@ -1,9 +1,7 @@
-shared_script '@FiveEye/FiveEye.lua'
-
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Inventory'
+description 'QB-Inventory Re-Designed by vipex#2027.'
 version '1.1.0'
 
 shared_scripts {
